@@ -1,0 +1,66 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #10969B;
+    display:flex;
+    justify-content: end;
+  }
+  
+  
+  li {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li :hover {
+    background-color: #10969B;
+  }
+
+  body {background-color: #FFF8EE;}
+
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 30%;
+    padding: 20px;
+    margin: 0px;
+    
+  }
+  footer {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #10969B;
+  }
+
+.contact{
+text-align: center;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.elipse{
+padding-right: 200;
+justify-content: flex-end;
+}
+
+nav {
+  display: block;
+
+
+}
+
+
+  
+
